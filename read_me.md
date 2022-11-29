@@ -13,6 +13,12 @@ SET UP: The first time you run the code, copy and paste each item individually i
 cd desktop/card_parser_tool-main
 
 ```
+4.  using terminal, run set up
+ 
+```
+source run_setup.txt
+
+```
 
 
 RUN CODE: Every other time you run the code:
