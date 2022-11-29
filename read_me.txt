@@ -7,6 +7,8 @@ The first time you run the code, copy and paste each item individually into term
 
 3. "virtualenv env"
 
+4. "source env/bin/activate"
+
 4. "pip3 install -r requirements.txt"
 
 5. "source run_author.txt" or "source run_prod.txt"
